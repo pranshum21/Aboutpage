@@ -1,6 +1,4 @@
 
-import './App.css'
-
 import pict from './assets/8635959.jpg'
 import pic2 from './assets/team1.jpg'
 import pic3 from './assets/team2.png'
